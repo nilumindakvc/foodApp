@@ -1,0 +1,15 @@
+.inputcontainer{
+    margin: 20px auto;
+    width: 300px;
+  
+    
+}
+
+.input{
+    
+   border: 1px groove;
+   padding: 10px 20px;
+   border-radius: 5px;
+   width: 60%;
+
+}

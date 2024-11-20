@@ -1,0 +1,9 @@
+.innercon{
+    
+    flex: 1;
+    /*display: flex;
+    justify-content: space-between;*/
+    margin: 5px;
+    padding: 10px;
+
+}
